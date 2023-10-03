@@ -20,11 +20,11 @@ Nitrte database is suitable for desktop, Android, or iOS applications. It is an 
 
 ## 🚀 Getting Started
 
-Please visit respective language page for getting started guide.
+Please visit respective repositories for each language.
 
-- [Java](/java-sdk/getting-started)
-- [Kotlin](/kotlin-sdk/getting-started)
-- [Flutter](/flutter-sdk/getting-started)
+- [Java](https://github.com/nitrite/nitrite-java)
+- [Kotlin](https://github.com/nitrite/nitrite-java)
+- [Flutter](https://github.com/nitrite/nitrite-flutter)
 
 ## 📝 License
 
@@ -40,4 +40,4 @@ Contributions, issues and feature requests are welcome!<br />Feel free to open a
 
 ## Showcase
 
-If you are using Nitrite database in your project, please let us know. We will be happy to showcase your project [here](/showcase).
+If you are using Nitrite database in your project, please let us know. We will be happy to showcase your project here.
