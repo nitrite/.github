@@ -36,8 +36,6 @@ Give a ⭐️ if this project helped you! Please consider [donating](https://git
 
 ## 💚 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to open a discussion thread [here](https://github.com/orgs/nitrite/discussions).
+Contributions, issues and feature requests are welcome. Feel free to open a discussion thread [here](https://github.com/orgs/nitrite/discussions).
 
-## 🎞️ Showcase
 
-If you are using Nitrite database in your project, please let us know. We will be happy to showcase your project here.
