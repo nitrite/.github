@@ -1,6 +1,6 @@
 # Welcome to Nitrite Database
 
-**NO**sql **O**bject (**NO<sub>2</sub>** a.k.a Nitrite) is a serverless, embedded, and self-contained NoSQL database. It is an open-source project that provides a simple API for persistent data storage. Nitrite database is designed to be lightweight, fast, and easy to use. Currently, it is available in Java, Kotlin, and Flutter.
+**NO**sql **O**bject (**NO<sub>2</sub>** a.k.a Nitrite) is a serverless, embedded, and self-contained NoSQL database. It is an open-source project that provides a simple API for persistent data storage. Nitrite database is designed to be lightweight, fast, and easy to use. Currently, it is available in Java, Kotlin, Rust and Flutter.
 
 Nitrte database is suitable for desktop, Android, or iOS applications. It is an ideal choice for small to medium size applications like personal data managers, embedded systems, and prototyping.
 
@@ -25,6 +25,7 @@ Please visit respective repositories for each language.
 - [Java](https://github.com/nitrite/nitrite-java)
 - [Kotlin](https://github.com/nitrite/nitrite-java)
 - [Flutter](https://github.com/nitrite/nitrite-flutter)
+- [Rust](https://github.com/nitrite/nitrite-rust)
 
 ## 📝 License
 
